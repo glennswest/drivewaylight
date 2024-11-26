@@ -15,6 +15,7 @@ This consists of 4 blocks from lowes:
     Item #1073530 Model #17H2700TCH
     ![Lowes Charcoal Retaining Wall Block - 6x16x6](https://mobileimages.lowes.com/productimages/89624595-792c-48f4-a415-f4d272215fa6/44003356.jpg?size=pdhism)
 
-<stl-part-viewer src=https://github.com/glennswest/drivewaylight/blob/main/DrivewayLight.stl>
+For a 3d model, click the Drivewaylight.stl above.
+
 
 
