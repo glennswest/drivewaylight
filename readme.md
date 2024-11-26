@@ -13,6 +13,6 @@ Concrete is poured in mold.
 This consists of 4 blocks from lowes:
     Tan-Charcoal-Retaining-Wall-Block-Common-6-in-x-16-in-Actual-6-in-x-16-in
     Item #1073530 Model #17H2700TCH
-    ![](https://mobileimages.lowes.com/productimages/89624595-792c-48f4-a415-f4d272215fa6/44003356.jpg?size=pdhism)
+    ![Lowes Charcoal Retaining Wall Block - 6x16x6](https://mobileimages.lowes.com/productimages/89624595-792c-48f4-a415-f4d272215fa6/44003356.jpg?size=pdhism)
 
 
